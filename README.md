@@ -3,7 +3,7 @@
 ![PCprogramming](https://user-images.githubusercontent.com/122318914/234438055-1bd9d177-10d5-4f31-93fd-d726f84b75c0.gif)
 
 Hi there, I'm Sergio 👋
-I'm a student at Universidad Andres Bello (UNAB) currently studying Android development. My passion for technology and programming led me to pursue this field, and I am excited about the endless possibilities it offers.
+I'm a [Talento Digital](https://talentodigitalparachile.cl/) student at Universidad Andres Bello (UNAB) currently coursing Android development Bootcamp. My passion for technology and programming led me to pursue this field, and I am excited about the endless possibilities it offers.
 
 💻 Skills & Tools
 
