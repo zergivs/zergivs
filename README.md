@@ -20,6 +20,10 @@ MySQL
 
 Git
 
+GitHub
+
+Chat-GPT
+
 
 🎸 Hobbies
 
